@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "id": "0739",
+      "pname": "product1",
+      "pdescription": "description1",
+      "pprice": "10"
+    },
+    {
+      "id": "c214",
+      "pname": "product3",
+      "pdescription": "description3",
+      "pprice": "30"
+    },
+    {
+      "id": "8cfe",
+      "pname": "product2",
+      "pdescription": "description2",
+      "pprice": "20"
+    }
+  ]
+}
